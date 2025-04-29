@@ -17,5 +17,5 @@ python train_models.py
 To start the application, run:
 ```bash
 python app/main.py
-```
+```.
 
